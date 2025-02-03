@@ -29,4 +29,4 @@ Here are some of the projects I've worked on:
 ## Local Development
 1. Clone the repository:
    
-`git clone https://github.com/jemanlutac-com/jcmanlutac-com.github.io.git`
+`git clone https://github.com/jcmanlutac-com/jcmanlutac-com.github.io.git`
