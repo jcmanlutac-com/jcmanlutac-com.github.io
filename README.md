@@ -5,6 +5,7 @@ Welcome to my personal portfolio website repository! This site showcases my skil
 - About Me(#about-me)
 - Contact(#contact)
 - Technologies Used(#technologies-used)
+- Projects(#projects)  <!-- Added Projects section -->
 
 ## About Me
 I'm Jonathan Manlutac, an experienced IT professional specializing in system enhancements, workflow automation, and technical/customer support. I'm passionate about technology and dedicated to providing effective solutions to technical challenges.  I'm currently available for freelance opportunities.
@@ -17,6 +18,13 @@ I'm Jonathan Manlutac, an experienced IT professional specializing in system enh
 
 ## Technologies Used
 - GitHub, Javascript, HTML, CSS, PHP
+
+## Projects
+Here are some of the projects I've worked on:
+
+1. **Project Name**: Description of the project.
+2. **Project Name**: Description of the project.
+3. **Project Name**: Description of the project.
 
 ## Local Development
 1. Clone the repository:
