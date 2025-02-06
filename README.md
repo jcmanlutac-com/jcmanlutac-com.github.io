@@ -5,16 +5,16 @@ Welcome to my personal portfolio website repository! This site showcases my skil
 - About Me(#about-me)
 - Contact(#contact)
 - Technologies Used(#technologies-used)
-- Projects(#projects)  <!-- Added Projects section -->
+- Projects(#projects)
 
 ## About Me
-I'm Jonathan Manlutac, an experienced IT professional specializing in system enhancements, workflow automation, and technical/customer support. I'm passionate about technology and dedicated to providing effective solutions to technical challenges.  I'm currently available for freelance opportunities.
+I'm Jonathan, an experienced IT professional specializing in system enhancements, workflow automation, and technical/customer support. I'm passionate about technology and dedicated to providing effective solutions to technical challenges.  I'm currently available for freelance opportunities.
 
 ## Contact
 - Email: jonathan@jcmanlutac.com
 - Upwork: https://www.upwork.com/freelancers/~010902d5c96f8447df
 - LinkedIn: https://www.linkedin.com/in/jcmanlutac/
-- URL: https://jcmanlutac.com
+- URL: https://www.jcmanlutac.com
 
 ## Technologies Used
 - GitHub, Javascript, HTML, CSS, PHP
