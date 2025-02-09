@@ -2,9 +2,9 @@
 Welcome to my personal portfolio website repository! This site showcases my skills and experience as an IT Specialist, Tech Support professional, and Freelancer.
 
 **Table of Contents**
-- About Me(#about-me)
-- Contact(#contact)
-- Technologies Used(#technologies-used)
+- About Me
+- Contact
+- Technologies Used
 
 ## About Me
 I'm Jonathan, an experienced IT professional specializing in system enhancements, workflow automation, and technical/customer support. I'm passionate about technology and dedicated to providing effective solutions to technical challenges.  I'm currently available for freelance opportunities.
