@@ -1,5 +1,5 @@
 # Jonathan M's Portfolio Website
-Welcome to my personal portfolio website repository! This site showcases my skills and experience as an IT Specialist, Tech Support professional, and Freelancer.
+Welcome to my personal portfolio website repository! This site showcases my skills and experience as an IT Specialist, Technical Support Analyst professional, and Freelancer.
 
 **Table of Contents**
 - About Me
