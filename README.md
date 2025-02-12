@@ -11,9 +11,7 @@ I'm Jonathan, an experienced IT professional specializing in system enhancements
 
 ## Contact
 - Email: jonathan@jcmanlutac.com
-- Upwork: https://www.upwork.com/freelancers/~010902d5c96f8447df
-- LinkedIn: https://www.linkedin.com/in/jcmanlutac/
-- URL: https://jcmanlutac.com
+- Website: https://jcmanlutac.com
 
 ## Technologies Used
 - GitHub, Javascript, HTML, CSS, PHP
