@@ -7,7 +7,10 @@ Welcome to my personal portfolio website repository! This site showcases my skil
 - Technologies Used
 
 ## About Me
-I'm Jonathan, an experienced IT professional specializing in system enhancements, workflow automation, and technical/customer support. I'm passionate about technology and dedicated to providing effective solutions to technical challenges.  I'm currently available for freelance opportunities.
+An all-arounder with more than ten years of advanced experience in technical operations, management, and administration. I have experience in providing technical and customer support. My strengths include system enhancements, process automation, and technical and customer support. I am adaptable and possess a diverse skill set.
+
+Skills Summary:
+Technical Support, Automation, Workflows, Customer Support, SaaS, Website management
 
 ## Contact
 - Email: jonathan@jcmanlutac.com
