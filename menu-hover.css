@@ -1,0 +1,39 @@
+.menu-item {
+    /* Required for positioning the hover content relative to the menu item */
+    position: relative; 
+    display: inline-block; /* Or block, depending on your layout */
+    padding: 10px;
+    cursor: pointer;
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+}
+
+.hover-content {
+    /* Initially hide the content */
+    display: none; 
+    /* Position the content */
+    position: absolute;
+    top: 100%; /* Position right below the menu item */
+    left: 0;
+    /* Style the hidden content box */
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    z-index: 1; /* Ensures it appears above other content */
+    width: 200px;
+}
+
+.menu-item:hover .hover-content {
+    /* Show the content on hover */
+    display: block; 
+}
+
+.hover-content a {
+    /* Style the link inside the hover content */
+    color: blue;
+    text-decoration: none;
+}
+
+.hover-content a:hover {
+    text-decoration: underline;
+}

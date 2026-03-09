@@ -23,6 +23,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="favicon.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="favicon.png" />
     <link rel="shortcut icon" href="favicon.png" type="image/png" />
+    <link rel="stylesheet" href="menu-hover.css" />
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4766046322362991"
         crossorigin="anonymous"></script>
     <style>
@@ -57,46 +58,6 @@
             padding-top: 100px;
         }
 
-.menu-item {
-    /* Required for positioning the hover content relative to the menu item */
-    position: relative; 
-    display: inline-block; /* Or block, depending on your layout */
-    padding: 10px;
-    cursor: pointer;
-    background-color: #f1f1f1;
-    border: 1px solid #ccc;
-}
-
-.hover-content {
-    /* Initially hide the content */
-    display: none; 
-    /* Position the content */
-    position: absolute;
-    top: 100%; /* Position right below the menu item */
-    left: 0;
-    /* Style the hidden content box */
-    background-color: #fff;
-    border: 1px solid #ccc;
-    padding: 10px;
-    z-index: 1; /* Ensures it appears above other content */
-    width: 200px;
-}
-
-.menu-item:hover .hover-content {
-    /* Show the content on hover */
-    display: block; 
-}
-
-.hover-content a {
-    /* Style the link inside the hover content */
-    color: blue;
-    text-decoration: none;
-}
-
-.hover-content a:hover {
-    text-decoration: underline;
-}
-
     </style>
 </head>
 
@@ -108,7 +69,7 @@
         <a href="https://www.upwork.com/freelancers/~010902d5c96f8447df">Upwork</a>&nbsp;&nbsp;
         <a href="https://www.linkedin.com/in/jcmanlutac/">LinkedIn</a>&nbsp;&nbsp;
         <a href="https://github.com/jcmanlutac-com/">GitHub</a>&nbsp;&nbsp;
-        <a href="mailto:jonathan@jcmanlutac.com">Email</a>
+        <a href="mailto:jonathan@jcmanlutac.com">Email</a>&nbsp;&nbsp;
     </div>
         Projects
         <div class="hover-content">
