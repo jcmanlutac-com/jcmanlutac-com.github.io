@@ -1,12 +1,20 @@
+/* Old
 .menu-item {
-    /* Required for positioning the hover content relative to the menu item */
+    /* Required for positioning the hover content relative to the menu item 
     position: relative; 
-    display: inline-block; /* Or block, depending on your layout */
+    display: inline-block; /* Or block, depending on your layout 
     padding: 10px;
     cursor: pointer;
     background-color: #f1f1f1;
     border: 1px solid #ccc;
 }
+*/
+
+.menu-item {
+    padding-top: 100px;
+
+}
+
 
 .hover-content {
     /* Initially hide the content */
