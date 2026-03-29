@@ -17,4 +17,4 @@ Technical Support, Automation, Workflows, Customer Support, SaaS, Website manage
 - Website: https://jcmanlutac.com
 
 ## Technologies Used
-- GitHub, Javascript, HTML, CSS, PHP
+- GitHub, Javascript, HTML, CSS, Python, PHP
