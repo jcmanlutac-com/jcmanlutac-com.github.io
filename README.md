@@ -18,6 +18,8 @@ Currently, I leverage this technical expertise as a Real Estate Agent and Develo
 ### Real Estate Scraper
 - A web scraping application built with Python and BeautifulSoup. It extracts real estate listings from various websites and provides structured data for analysis.
 ## Contact
-Feel free to reach out to me via email at [jonathan@jcmanlutac.com](mailto:jonathan@jcmanlutac.com) or connect with me on LinkedIn at [https://www.linkedin.com/in/jcmanlutac/](https://www.linkedin.com/in/jcmanlutac/). I am always open to discussing new projects, collaborations, or opportunities in the software development field. Thank you for visiting my profile!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jcmanlutac-blue)](https://www.linkedin.com/in/jcmanlutac/)
+[![GitHub](https://img.shields.io/badge/GitHub-jcmanlutac-black)](https://github.com/jcmanlutac-com)
+[![Email](https://img.shields.io/badge/Email-jonathan%40jcmanlutac.com-red)](mailto:jonathan@jcmanlutac.com)    
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
