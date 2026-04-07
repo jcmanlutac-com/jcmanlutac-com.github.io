@@ -1,4 +1,5 @@
 # Jonathan M.
+[![Upwork](https://img.shields.io/badge/Upwork-jcmanlutac-green)](https://www.upwork.com/freelancers/~010902d5c96f8447df1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jcmanlutac-blue)](https://www.linkedin.com/in/jcmanlutac/)
 [![GitHub](https://img.shields.io/badge/GitHub-jcmanlutac-black)](https://github.com/jcmanlutac-com)
 [![Email](https://img.shields.io/badge/Email-jonathan%40jcmanlutac.com-red)](mailto:jonathan@jcmanlutac.com)    
@@ -31,6 +32,7 @@ I view myself as a partner in your success. I focus on being approachable and ea
 ### Real Estate Scraper
 - A web scraping application built with Python and BeautifulSoup. It extracts real estate listings from various websites and provides structured data for analysis.
 ## Contact
+[![Upwork](https://img.shields.io/badge/Upwork-jcmanlutac-green)](https://www.upwork.com/freelancers/~010902d5c96f8447df1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jcmanlutac-blue)](https://www.linkedin.com/in/jcmanlutac/)
 [![GitHub](https://img.shields.io/badge/GitHub-jcmanlutac-black)](https://github.com/jcmanlutac-com)
 [![Email](https://img.shields.io/badge/Email-jonathan%40jcmanlutac.com-red)](mailto:jonathan@jcmanlutac.com)    
